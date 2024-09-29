@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semangat untuk Kamu!</title>
+    <link rel="stylesheet" href="Semangat.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Halo, Key!</h1>
+        <p> Semangat buat  yg bentar lagi UTS! Jgn cpe sm kimia yhh!</p>
+        
+        <button onclick="showMessage()">Pencet!</button>
+        
+        <div id="message" class="hidden">
+            <p>yaudah gitu  aja</p>
+        </div>
+    </div>
+
+    <script src="Semangat.js"></script>
+</body>
+</html>
